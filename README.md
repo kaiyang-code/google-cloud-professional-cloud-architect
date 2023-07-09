@@ -1,3 +1,11 @@
+# Notes
+
+## Resource Manager
+
+- **super admin:** the user that you used to sign up for Google Cloud
+  - the user has the permission to do absolutely anything
+  - when creating our first google user account, we are creating our organization, and the email used is the super admin
+
 # Google Cloud Professional Cloud Architect
 
 Course Files for Google Cloud Professional Cloud Architect Course by Antoni Tzavelas
