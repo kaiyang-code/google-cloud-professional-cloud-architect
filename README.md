@@ -66,6 +66,7 @@
 - <kbd><img width="666" alt="Screen Shot 2023-07-10 at 10 52 51 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/b647c131-e9d9-4106-a982-6156ee8f9912"></kbd>
 - **Environ：** this is Google Cloud's concept for logically organizing clusters and other resources to let you use and manage multi-cluster capabilities and apply consistent policies across your systems, thus making administration of infrastructure easier
   - all attached clusters must be registered to Environ
+  - <kbd><img width="666" alt="Screen Shot 2023-07-10 at 11 55 13 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/bf148982-ed78-431f-844d-2b709d322fb8"></kbd>
 - **Anthos Clusters:**  provides a unified way to work with Kubernetes Clusters as part of Anthos, extending GKE to work in multiple environments. It gives a consistent, unified, and secure infrastructure, as well as cluster, and container management
 - **User Cluster:**  where you deploy and run your containerized workloads and services
 - **Admin Cluster:** An admin cluster in Anthos serves as the control plane for managing and orchestrating multiple user clusters
