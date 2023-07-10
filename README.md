@@ -54,7 +54,20 @@
 
 ## High Availability and Autoscaling
 
-- **cloud run:** 
+- **cloud run:** this is a serverless managed compute platform that enables you to run stateless containers that are invocable by requests or events
+  - [cloud run I](https://app.exampro.co/student/material/gcp-architect/4378)
+  - [cloud run II](https://app.exampro.co/student/material/gcp-architect/4379)
+  - Each revision is automatically scaled to the number of container instances needed to handle all incoming requests
+  - **traffic surges:** this term is used when Cloud Run may create slightly more container instances than the specified max instances value
+
+## Anthos
+
+- **Anthos:** allows organizations to build, deploy, and manage applications across different environments, including on-premises data centers, Google Cloud, and other public cloud providers
+- **Environ：** this is Google Cloud's concept for logically organizing clusters and other resources to let you use and manage multi-cluster capabilities and apply consistent policies across your systems thus making administration of infrastructure easier
+- <kbd><img width="666" alt="Screen Shot 2023-07-10 at 10 52 51 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/b647c131-e9d9-4106-a982-6156ee8f9912"></kbd>
+- 
+
+
 
 # Google Cloud Professional Cloud Architect
 
