@@ -63,8 +63,15 @@
 ## Anthos
 
 - **Anthos:** allows organizations to build, deploy, and manage applications across different environments, including on-premises data centers, Google Cloud, and other public cloud providers
-- **Environ：** this is Google Cloud's concept for logically organizing clusters and other resources to let you use and manage multi-cluster capabilities and apply consistent policies across your systems thus making administration of infrastructure easier
 - <kbd><img width="666" alt="Screen Shot 2023-07-10 at 10 52 51 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/b647c131-e9d9-4106-a982-6156ee8f9912"></kbd>
+- **Environ：** this is Google Cloud's concept for logically organizing clusters and other resources to let you use and manage multi-cluster capabilities and apply consistent policies across your systems, thus making administration of infrastructure easier
+  - all attached clusters must be registered to Environ
+- **Anthos Clusters:**  provides a unified way to work with Kubernetes Clusters as part of Anthos, extending GKE to work in multiple environments. It gives a consistent, unified, and secure infrastructure, as well as cluster, and container management
+- **User Cluster:**  where you deploy and run your containerized workloads and services
+- **Admin Cluster:** An admin cluster in Anthos serves as the control plane for managing and orchestrating multiple user clusters
+- **Anthos on VMWare:** the software that brings GKE to on-premises data centers and allows the creation, management, and upgrades of Kubernetes clusters in your on-premises environment
+- **Anthos on Bare-metal:** allows take advantage of your existing infrastructure and offers the flexibility of running Anthos with no hypervisor. It gives the ability to deploy applications directly on your hardware infrastructure
+- **Anthos on AWS:** hybrid cloud software that extends GKE to AWS
 - 
 
 
