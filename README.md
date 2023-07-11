@@ -77,7 +77,8 @@
 
 ## Big Data and Machine Learning
 
-- **Big Data:** refers to massive amounts of data that would typically be too expensive to store manage and analyze using traditional database systems
+- **Big Data:** refers to massive amounts of data that would typically be too expensive to store, manage and analyze using traditional database systems
+- **Dataflow:** a fully-managed service for building and executing data processing pipelines
 - 
 
 # Google Cloud Professional Cloud Architect
