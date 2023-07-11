@@ -75,7 +75,10 @@
 - **Anthos on AWS:** hybrid cloud software that extends GKE to AWS
 - 
 
+## Big Data and Machine Learning
 
+- **Big Data:** refers to massive amounts of data that would typically be too expensive to store manage and analyze using traditional database systems
+- 
 
 # Google Cloud Professional Cloud Architect
 
