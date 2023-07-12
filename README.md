@@ -102,9 +102,14 @@
 - **Configuration Management:** the process of maintaining systems, such as computer software in a desired and consistent state
   - Puppet is an example tool of Configuration Management
 - **Deployment Strategies:**
+  - <kbd><img width="666" alt="Screen Shot 2023-07-12 at 7 30 16 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/3bf2f606-9180-4538-8926-1f1f1352355a"></kbd>
   - **Recreate:** completely delete version one and create version two. **It involves downtime**
   - **Rolling update:** slowly replace the version on each node. **It does not involve downtime**
-  -  
+  - **Blue/Green:** it has **no downtime**
+  - **A/B testing:** also known as split testing or bucket testing, is a method used to compare two or more variations of a webpage, app interface, or other elements to determine which one performs better in terms of user engagement or desired outcomes. It is a data-driven approach to make informed decisions and optimize the user experience.
+  - **Shadow Testing:**
+    - <kbd><img width="666" alt="Screen Shot 2023-07-12 at 7 26 17 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/b80819b2-bd0e-4da4-916f-8b11534ed4f4"></kbd>
+
 
 
 
