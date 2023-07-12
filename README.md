@@ -109,12 +109,7 @@
   - **A/B testing:** also known as split testing or bucket testing, is a method used to compare two or more variations of a webpage, app interface, or other elements to determine which one performs better in terms of user engagement or desired outcomes. It is a data-driven approach to make informed decisions and optimize the user experience.
   - **Shadow Testing:**
     - <kbd><img width="666" alt="Screen Shot 2023-07-12 at 7 26 17 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/b80819b2-bd0e-4da4-916f-8b11534ed4f4"></kbd>
-
-
-
-
-
-
+- 
 
 
 # Google Cloud Professional Cloud Architect
