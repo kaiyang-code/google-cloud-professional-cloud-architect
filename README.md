@@ -79,7 +79,36 @@
 - **Big Data:** refers to massive amounts of data that would typically be too expensive to store, manage and analyze using traditional database systems
 - **Dataflow:** a fully-managed service for building and executing data processing pipelines
 - **Tensoflow:** a free and open-source software library for machine learning and artificial intelligence. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks
-- 
+- **Data Lifecycle**
+  - Ingest, Store, Process & Analyze, Explore and Visualize
+  - <kbd><img width="666" alt="Screen Shot 2023-07-12 at 6 12 53 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/517c644f-67b4-4835-a9a8-ee917c16448b"></kbd>
+
+## Infrastructure Automation DevOps
+
+- **DevOps:**
+  - It combines software development (Dev) and information technology operations (Ops) to enhance collaboration, communication, and efficiency in delivering software and service.
+  - Traditionally, software development and operations were separate siloed functions within organizations. Developers focused on writing code and creating new features, while operations teams focused on deploying and managing the infrastructure required to run the software. This siloed approach often led to delays, miscommunication, and inefficiencies in the software delivery process.
+  - DevOps aims to bridge the gap between development and operations by promoting collaboration, automation, and continuous integration and delivery. It encourages developers and operations teams to work closely together throughout the entire software lifecycle, from planning and development to deployment and maintenance.
+  - <kbd><img width="666" alt="Screen Shot 2023-07-12 at 6 34 06 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/c38c395d-b01b-4c61-956a-91cdc5e9b99c"></kbd>
+  - <kbd><img width="666" alt="Screen Shot 2023-07-12 at 6 35 58 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/bef08f1e-63da-4749-8e1c-b00feaf2d55b"></kbd>
+- **Agile Software Development Life Cycle (SDLC):**
+  - <kbd><img width="666" alt="Screen Shot 2023-07-12 at 6 31 59 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/1ea6537f-5140-41a9-aa7b-3809b2046e6f"></kbd>
+- **Continuous Integration (CI):** developers merge their code changes frequently, usually several times a day, into a central code repository. This triggers an automated build and testing process, where the integrated code is compiled, deployed, and tested against a predefined set of tests
+- **Continuous Delivery (CD):**
+  - It is a software development practice that enables teams to deliver software in a frequent, reliable, and automated manner. It extends the principles of Continuous Integration (CI) by automating the entire software delivery pipeline, from code changes to production deployment
+  - In Continuous Delivery, the goal is to ensure that software is always in a releasable state, ready to be deployed to production at any time. The focus is on reducing the time and effort required to deliver new features, bug fixes, and enhancements while maintaining a high level of quality and stability
+- **Continuous Integration (CI) vs Continuous Delivery (CD):**
+  - <img width="666" alt="Screen Shot 2023-07-12 at 6 54 47 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/e7061f54-b430-4c09-9dd1-da07131d1f78">
+- **Configuration Management:** the process of maintaining systems, such as computer software in a desired and consistent state
+  - Puppet is an example tool of Configuration Management
+- **Deployment Strategies:**
+  - **Recreate:** completely delete version one and create version two. **It involves downtime**
+  - **Rolling update:** slowly replace the version on each node. **It does not involve downtime**
+  -  
+
+
+
+
 
 
 
