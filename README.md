@@ -118,6 +118,41 @@
 
 ## Migration to Google Cloud
 
+- **Lift and Shift:** requires the least amount of time to migrate
+- **Google Cloud Adoption Framework:**
+  - to guide organizations in their adoption and implementation of Google Cloud services. It provides a structured approach and methodology for organizations to plan, execute, and optimize their cloud adoption journey with Google Cloud
+  - **Tactical:** you can achieve the short-term business objective of optimizing costs within your existing IT solutions and you look to execute projects with minimal change to your people, technology, and process
+  - **Strategic:** expands the adoption of Google Cloud by migrating more workloads and applications. It involves defining a comprehensive cloud strategy aligned with business objectives and identifying the appropriate tools, services, and architectures for the organization's specific needs. The goal is to achieve scalability, efficiency, and cost optimization through the strategic use of Google Cloud services
+  - **Transformational:** to drive significant business transformation and innovation. It involves exploring advanced capabilities and services offered by Google Cloud, such as artificial intelligence, machine learning, big data analytics, and Internet of Things (IoT). The goal is to unlock new business opportunities, drive innovation, and gain a competitive edge through the transformative power of Google Cloud technologies
+  - <kbd><img width="666" alt="Screen Shot 2023-07-13 at 1 41 28 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/4f9295c0-a429-46a8-adbe-0f1cc907e7a9"></kbd>
+- **Migration Path**
+  - **Migration Phase 1: Access** your job is to gather all the information about the workloads you want to migrate and their current runtime environments and take inventory of what applications exist in your environment
+  - **Migration Phase 2: Plan:** where you start to configure and provision cloud infrastructure and services that will support your workloads on Google Cloud
+  - **Migration Phase 4: Optimize** where you train your development and operations team to take full advantage of the new cloud environment as well as monitor everything to ensure everything in the environment is working as expected
+  - **Proof of Concept (PoC):** is a small-scale project or experiment designed to validate the feasibility, viability, and potential of a concept, idea, or technology. It is typically conducted to demonstrate the practicality and benefits of a solution before committing to full-scale implementation
+- **Storage Transfer Service:**
+  - <kbd><img width="666" alt="Screen Shot 2023-07-13 at 2 13 35 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/5945663f-809e-41da-ab65-b5796f88bca3"></kbd>
+- **Transfer Appliance**
+  - a high-capacity storage device that enables you to transfer and securely ship your data to a Google upload facility, where data is uploaded to your Cloud Storage
+  - good for when your data is more than 10TB or needs more than a week to upload
+  - good for when Transfer Appliance is available in your area
+  - <kbd><img width="666" alt="Screen Shot 2023-07-13 at 2 17 00 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/eaf4dd7c-99fc-4f26-bbda-06a59d975aef"></kbd>
+- **one-off transfer:** an one-time transaction that is not expected to be repeated on a regular basis
+- **Migrate for Compute Engine:**  
+  - continously replicate disk data from the source VMs to GCP without causing any downtime on the source
+  - will replicate data unitl you perform a final cut over to you migrated VMs
+  - <kbd><img width="666" alt="Screen Shot 2023-07-13 at 2 23 49 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/5ee3f3ea-7762-4e31-9c18-a5b6cffa4b64"></kbd>
+- **Database Migration Service:**
+  - **one-time migration:**
+    - <kbd><img width="666" alt="Screen Shot 2023-07-13 at 2 29 05 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/39b39bfe-b055-48ac-b1a3-4777658ecb21"></kbd>
+  - **continous migration:**
+    - <kbd><img width="666" alt="Screen Shot 2023-07-13 at 2 31 05 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/9462c257-dda5-477d-8917-ddcbe1ed7a39"></kbd>
+  - serverless
+
+## System Design Consideration
+
+- 
+
 
 
 # Google Cloud Professional Cloud Architect
