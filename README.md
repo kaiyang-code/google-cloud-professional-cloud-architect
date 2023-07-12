@@ -73,13 +73,15 @@
 - **Anthos on VMWare:** the software that brings GKE to on-premises data centers and allows the creation, management, and upgrades of Kubernetes clusters in your on-premises environment
 - **Anthos on Bare-metal:** allows take advantage of your existing infrastructure and offers the flexibility of running Anthos with no hypervisor. It gives the ability to deploy applications directly on your hardware infrastructure
 - **Anthos on AWS:** hybrid cloud software that extends GKE to AWS
-- 
 
 ## Big Data and Machine Learning
 
 - **Big Data:** refers to massive amounts of data that would typically be too expensive to store, manage and analyze using traditional database systems
 - **Dataflow:** a fully-managed service for building and executing data processing pipelines
+- **Tensoflow:** a free and open-source software library for machine learning and artificial intelligence. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks
 - 
+
+
 
 # Google Cloud Professional Cloud Architect
 
