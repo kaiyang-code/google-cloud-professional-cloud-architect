@@ -109,7 +109,15 @@
   - **A/B testing:** also known as split testing or bucket testing, is a method used to compare two or more variations of a webpage, app interface, or other elements to determine which one performs better in terms of user engagement or desired outcomes. It is a data-driven approach to make informed decisions and optimize the user experience.
   - **Shadow Testing:**
     - <kbd><img width="666" alt="Screen Shot 2023-07-12 at 7 26 17 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/b80819b2-bd0e-4da4-916f-8b11534ed4f4"></kbd>
-- 
+- **Cloud Build:**
+  - CI/CD tool executes your builds on GCP as a series of steps including importing source code, executing a build, and producing artifacts
+  - each build step runs inside a Docker container
+  - <kbd><img width="666" alt="Screen Shot 2023-07-13 at 1 23 05 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/a5acd80f-24ff-48ef-bb4d-366ccae2f575"></kbd>
+- **Container Registry:**
+  - a single private repository to manage Docker images, **perform vulnerability analysis** and **enable CI/CD integrations** for setting up fully automated Docker pipelines
+
+## Migration to Google Cloud
+
 
 
 # Google Cloud Professional Cloud Architect
