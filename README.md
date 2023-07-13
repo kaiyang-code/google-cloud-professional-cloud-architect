@@ -151,7 +151,21 @@
 
 ## System Design Consideration
 
+- **Error Budget:** a concept used in software development and operations to quantify the acceptable level of errors or failures that can occur in a system or service over a defined period of time. It is a quantitative measure that sets a limit on the amount of errors or downtime that can be tolerated within a specific period while still meeting the service level objectives (SLOs) or service level agreements (SLAs) of the system
+- **Development velocity:** refers to the rate at which a software development team can deliver new features, fixes, or improvements to a product or software system
+- **Altering Delay:**
+  - refers to the practice of intentionally delaying the response or feedback to a user or system in order to achieve a desired outcome or improve the user experience
+  - For example, a system that handles a large volume of requests may introduce a delay between requests to prevent the system from becoming overloaded and to ensure that all requests are processed in a timely manner
+- **RPO and RTO:**
+  - <kbd><img width="666" alt="Screen Shot 2023-07-13 at 4 42 29 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/3ed22c7f-29a4-473c-9d01-2ff460162563"></kbd>
+  - The lower the RPO and RTO, the higher the cost
+  - the higher the RPO and RTO, the lower the cost
+- **Warm Disaster Recovery Pattern:** implemented to keep RTO and RPO values as small as possible without the effort and expense of a **fully** redundant environment
+
+## Security and Compliance
+
 - 
+
 
 
 
