@@ -164,7 +164,34 @@
 
 ## Security and Compliance
 
-- 
+- **Encryption by default:**
+  - <kbd><img width="666" alt="Screen Shot 2023-07-13 at 6 54 43 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/dfaca61b-c9f8-4ab0-a0ac-97bd62318402"></kbd>
+- **DEK:** data encryption key
+- **KEK:** key encryption key
+- **Envelope Encryption:**  In envelope encryption, a data encryption key (DEK) is used to encrypt the data and a master encryption key (MEK) is used to encrypt the DEK. This creates an "envelope" of encryption around the data, which provides an additional layer of security
+- **Encryption Key Hierarchy:**
+  - <kbd><img width="666" alt="Screen Shot 2023-07-13 at 7 01 12 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/964aacf8-83b9-4e7b-8f8f-8ac157f2a088"></kbd>
+- **key rotation:** key rotation is a security practice that involves periodically replacing cryptographic keys used to protect sensitive data or systems with new ones. The purpose of key rotation is to limit the amount of time that a compromised key can be used to access sensitive data or systems, in case the key is ever compromised
+- **object hierarchy:**
+  - how Cloud Key Management Service (KMS) stores keys
+  - <kbd><img width="666" alt="Screen Shot 2023-07-13 at 7 15 07 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/17385525-c5e0-464f-851a-b295aa1944d1"></kbd>
+- **key state:**
+  - <kbd><img width="666" alt="Screen Shot 2023-07-13 at 7 17 52 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/0becb26a-c3f4-48b2-b161-f2fbf34b2d1e"></kbd>
+- **key management:**
+  - <kbd><img width="666" alt="Screen Shot 2023-07-13 at 7 20 54 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/7af2e2de-8576-4638-aaca-018b0ff80df9"></kbd>
+- **cloud HSM (Hardware Security Module):** a dedicated device or service that provides secure cryptographic key storage and management in a cloud environment. HSMs are designed to protect and manage the cryptographic keys used to encrypt and decrypt sensitive data, such as financial transactions, personal information, and intellectual property
+- **EKM:** External Key Management
+- **Secret:** secure objects that store sensitive data, such as password, OAuth tokens, and API keys
+- **Secret Manager:** store, manage, access, and audit secrets across GCP
+  - no need to setup, encryption by default (using TLS/AES-256 by default), and secret can be viewed with permissions
+  - adding secrets are strongly consistent, while all other operations are eventually consistent
+  - replication policy: **automatic** (default and recommended) and **user-managed**
+- **Identity-Aware Proxy (IAP):**
+  -  
+
+
+
+
 
 
 
