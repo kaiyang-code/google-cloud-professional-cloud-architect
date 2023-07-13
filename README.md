@@ -68,11 +68,42 @@
   - all attached clusters must be registered to Environ
   - <kbd><img width="666" alt="Screen Shot 2023-07-10 at 11 55 13 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/bf148982-ed78-431f-844d-2b709d322fb8"></kbd>
 - **Anthos Clusters:**  provides a unified way to work with Kubernetes Clusters as part of Anthos, extending GKE to work in multiple environments. It gives a consistent, unified, and secure infrastructure, as well as cluster, and container management
-- **User Cluster:**  where you deploy and run your containerized workloads and services
-- **Admin Cluster:** An admin cluster in Anthos serves as the control plane for managing and orchestrating multiple user clusters
+- **User Cluster (Member Cluster):**  where you deploy and run your containerized workloads and services
+- **Admin Cluster (Config Cluster):** An admin cluster in Anthos serves as the control plane for managing and orchestrating multiple user clusters
 - **Anthos on VMWare:** the software that brings GKE to on-premises data centers and allows the creation, management, and upgrades of Kubernetes clusters in your on-premises environment
 - **Anthos on Bare-metal:** allows take advantage of your existing infrastructure and offers the flexibility of running Anthos with no hypervisor. It gives the ability to deploy applications directly on your hardware infrastructure
 - **Anthos on AWS:** hybrid cloud software that extends GKE to AWS
+- **Ingress for Anthos:**
+  - <kbd><img width="666" alt="Screen Shot 2023-07-14 at 3 04 38 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/c89d6fd3-8d7f-4179-b67e-31eed88ebd68"></kbd>
+- **Service Mesh:**
+  - <kbd><img width="666" alt="Screen Shot 2023-07-14 at 3 16 31 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/7eff830b-d3e7-4b82-8d0f-faac58756dd3"></kbd>
+- **Istio:**
+  - Istio is an **open-source service mesh** platform designed to connect, secure, and manage microservices within a distributed application architecture. It provides a uniform way to connect, manage, and secure microservices by offering features such as traffic management, observability, security, and policy enforcement
+  - <kbd><img width="666" alt="Screen Shot 2023-07-14 at 3 25 21 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/65bc1cc1-f2ea-4401-83f6-029cd28dd5e6"></kbd>
+- **Istio on GKE:**
+  - provides antomated installation and upgrade of Istio in your GKE cluster
+    - **versions of Istio installed tied to GEK version - can not upgrade independently**
+  - it runs inside your cluster
+  - **not recommended for production**
+  - **Anthos Service Mesh is recommended over Istio on GKE**
+- **fine-grained control:** having precise control over the behavior and interactions between microservices at a granular level
+- **Anthos Service Mesh:**
+  - **Security**
+    - <kbd><img width="666" alt="Screen Shot 2023-07-14 at 3 46 52 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/f6bd2ed0-06b0-496e-b71d-4459ddaef14d"></kbd>
+  - **Observability**
+    - <kbd><img width="666" alt="Screen Shot 2023-07-14 at 3 47 59 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/1ff862d7-8237-4c29-b539-21f4b563b1ef"></kbd>
+- **Anthos Config Management:**
+  - <kbd><img width="666" alt="Screen Shot 2023-07-14 at 3 51 15 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/65737935-bc0b-48f3-9e77-3f6db4495fa8"></kbd>
+  - **Config Sync:**
+    - <kbd><img width="666" alt="Screen Shot 2023-07-14 at 3 53 59 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/d87ea137-3fb8-4a38-b2d7-e706dd7c22aa"></kbd>
+    - **multi-repo:**
+      - <kbd><img width="66" alt="Screen Shot 2023-07-14 at 3 54 38 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/8eb580e1-c77d-4704-a734-5b8c84056e4e"></kbd>
+  - **Hierarchical Quota:** a feature of the **Hierarchical namespace** that limits the aggregate resource consumption across all namespaces in a subtree
+- **[Anthos Tooling I](https://app.exampro.co/student/material/gcp-architect/4388)**
+- **[Anthos Tooling II](https://app.exampro.co/student/material/gcp-architect/4389)**
+
+
+
 
 ## Big Data and Machine Learning
 
