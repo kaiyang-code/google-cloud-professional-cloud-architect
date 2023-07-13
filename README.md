@@ -187,14 +187,22 @@
   - adding secrets are strongly consistent, while all other operations are eventually consistent
   - replication policy: **automatic** (default and recommended) and **user-managed**
 - **Identity-Aware Proxy (IAP):**
-  -  
-
-
-
-
-
-
-
+  - <kbd><img width="666" alt="Screen Shot 2023-07-13 at 8 59 09 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/0a054b37-15e5-44ac-8b9c-12f9ed494eab"></kbd>
+  - **IAP for on-premises:**
+    - <kbd><img width="666" alt="Screen Shot 2023-07-13 at 9 01 38 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/eadd3498-c6e4-4eb3-bd23-fa9bd7c00f9c"></kbd>
+  - **IAP TCP Forwarding:**
+    - <kbd><img width="666" alt="Screen Shot 2023-07-13 at 9 04 02 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/0183c09d-aeb9-40dc-a42b-6e4c083e83c5"></kbd>
+- **Infotype detectors:** use natural language processing (NLP) techniques to analyze the content of documents and identify specific types of sensitive information, such as credit card numbers, social security numbers, and email addresses.
+- **Personally Identifiable Information (PII)**
+- **redact:** to censor, obscure, or remove sensitive or confidential information from a document or other form of media
+- **Data Loss Prevention (DLP) Template:**
+  - In Data Loss Prevention (DLP), you can use this to create and persist configuration information to use with DLP at scale from a single source
+  - <kbd><img width="666" alt="Screen Shot 2023-07-13 at 9 18 16 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/49c51377-5498-417c-bb8f-5eff60b2abd3"></kbd>
+- **recommendation vs insight:**
+  - <kbd><img width="666" alt="Screen Shot 2023-07-13 at 9 23 49 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/082bf564-f227-48d2-915b-e5cd6c7deef6"></kbd>
+- **recommender:**
+  - it can help you optimize **performance**, **cost**, and **security**
+  - powered by machine learning under the hood
 
 # Google Cloud Professional Cloud Architect
 
