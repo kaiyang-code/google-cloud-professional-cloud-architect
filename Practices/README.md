@@ -96,3 +96,73 @@ The `~/bin` folder, also known as the bin directory in the user's home directory
 <img width="1113" alt="Screen Shot 2023-07-18 at 10 17 43 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/1c244a6e-9a03-4cb5-a44e-ef6171492b7c">
 <img width="1113" alt="Screen Shot 2023-07-18 at 10 19 07 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/765851e8-b38b-41e9-aa47-e25f22d9de8a">
 <img width="1113" alt="Screen Shot 2023-07-18 at 10 23 40 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/e920b3cd-2e06-497b-b574-d1e206d2bd54">
+<img width="1113" alt="Screen Shot 2023-07-21 at 11 44 56 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/2ecaa79e-07e4-4bd2-aa75-8a2d4162976d">
+<img width="1113" alt="Screen Shot 2023-07-21 at 11 50 40 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/9ab7b202-b3a5-45be-be7d-44524593792d">
+<img width="1113" alt="Screen Shot 2023-07-21 at 11 53 05 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/4e0d6107-09cd-4ba5-9345-fab55e32b9d3">
+<img width="1113" alt="Screen Shot 2023-07-21 at 11 53 49 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/2f2ea002-da4a-48f3-9bd3-9593c96d3ac9">
+<img width="1113" alt="Screen Shot 2023-07-21 at 12 02 00 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/b9fee217-5558-44c0-bc82-5586474a7b25">
+
+---
+- **Primary IP:** the primary interface through which the device communicates on the network
+- **Secondary IP:** are additional addresses that allow the device to host multiple services or applications
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-21 at 12 07 18 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/7d974ced-df17-44be-8c8a-5d22f092a6b4">
+<img width="1113" alt="Screen Shot 2023-07-21 at 12 14 52 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/93a0fcc7-f850-4b2d-897d-c4f41f76f0c2">
+<img width="1113" alt="Screen Shot 2023-07-21 at 12 24 18 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/014705ca-72e5-41e8-b0ca-eef840cf8273">
+
+---
+**Google Cloud VPN** securely connects your existing network to your GCP network through an IPsec VPN connection. Therefore, **only resources that are connected to GCP networks can communicate through Cloud VPN tunnels**
+
+App Engine **Flexible** Environment is based on **Google Compute Engine** and consequently can connect to your remote network via Cloud VPNs (**choose flexible enviornmet if you need to access the resources or services of your Google Cloud project that reside in the Compute Engine network**)
+
+The App Engine **standard** environment is based on **container instances** running on Google's infrastructure. Applications run in a secure, sandboxed environment, allowing the standard environment
+
+Only standard environment can scale donw to 0, flexible environment always has 1 instance running
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-21 at 12 51 44 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/b5d9803c-416a-4e2a-9a27-87e560b22ff0">
+
+---
+**Transfer Appliance Rehydrator** will decompress and decrypt the data that is in the temporary staging bucket and store it in your final destination bucket
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-21 at 12 57 41 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/44a02a21-11ac-493f-95a0-6065d8056f7c">
+<img width="1113" alt="Screen Shot 2023-07-21 at 1 01 05 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/3c20384e-3a8b-4e30-bbb8-c06795217855">
+
+---
+BigQuery **User** Permission will allow you to **edit** the dataset as well as submit queries
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-21 at 1 03 53 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/f310a0cc-f611-417e-8ef6-04525b9f911a">
+<img width="1113" alt="Screen Shot 2023-07-21 at 1 05 23 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/acdeb35c-b751-4c09-84f9-0764fabd128b">
+<img width="1113" alt="Screen Shot 2023-07-21 at 1 12 37 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/be40f7ec-49c3-4f1a-8488-b38fc36d05e9">
+<img width="1113" alt="Screen Shot 2023-07-21 at 1 13 47 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/a1def9ed-69aa-437e-92da-0140be40df7e">
+<img width="1113" alt="Screen Shot 2023-07-21 at 1 17 34 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/79434a0a-354b-4e2d-a24a-d4733ecdf510">
+<img width="1113" alt="Screen Shot 2023-07-21 at 1 21 03 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/0cf4cd09-b3b6-49ef-972e-eacd185dac80">
+<img width="1113" alt="Screen Shot 2023-07-21 at 1 25 48 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/462f4065-b77f-40bb-aafd-63b6d0c09840">
+<img width="1113" alt="Screen Shot 2023-07-21 at 1 28 04 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/4af634ff-5251-4a7a-bedc-83eec4559dd9">
+
+---
+Use .boto file for using **customer-managed** or **customer-supplied** encryption keys
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-21 at 1 30 32 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/15a11300-452a-45b9-b5e3-7fbd052e23c6">
+<img width="1113" alt="Screen Shot 2023-07-21 at 1 38 05 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/266f1b6f-d0fc-456e-b3c8-055f73ab0593">
+
+---
+- **imagePullPolicy: IfNotPresent** 
+  - instructs Kubernetes to use a locally available image if it exists on the node where the Pod is scheduled
+- **imagePullPolicy: Always**
+  -  Kubernetes will always attempt to pull the latest version of the specified container image from the container registry, regardless of whether the image already exists on the node where the Pod is scheduled or not
+ 
+---
+
+<img width="1113" alt="Screen Shot 2023-07-21 at 1 51 09 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/707303d8-8a08-4734-8af5-6195b7f25b77">
+<img width="1113" alt="Screen Shot 2023-07-21 at 2 17 01 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/9828fbcb-747d-4480-af3b-1ca9d280ec90">
+<img width="1113" alt="Screen Shot 2023-07-21 at 2 18 33 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/6107cd26-f8c3-4cd3-a494-a342b45db11f">
