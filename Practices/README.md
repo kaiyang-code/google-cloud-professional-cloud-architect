@@ -166,3 +166,22 @@ Use .boto file for using **customer-managed** or **customer-supplied** encryptio
 <img width="1113" alt="Screen Shot 2023-07-21 at 1 51 09 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/707303d8-8a08-4734-8af5-6195b7f25b77">
 <img width="1113" alt="Screen Shot 2023-07-21 at 2 17 01 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/9828fbcb-747d-4480-af3b-1ca9d280ec90">
 <img width="1113" alt="Screen Shot 2023-07-21 at 2 18 33 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/6107cd26-f8c3-4cd3-a494-a342b45db11f">
+<img width="1113" alt="Screen Shot 2023-07-21 at 3 27 31 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/126da330-a8ea-4c87-bb75-b10c1be71e1f">
+<img width="1113" alt="Screen Shot 2023-07-21 at 3 29 10 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/19d9fee9-b137-4e76-812f-7e226f5a0607">
+<img width="1113" alt="Screen Shot 2023-07-21 at 3 39 24 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/72e0ff2a-de55-45e3-9428-0a0349521796">
+<img width="1113" alt="Screen Shot 2023-07-21 at 3 40 19 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/7fbca12e-61f1-4f3d-98e8-f436a3f1400b">
+<img width="1113" alt="Screen Shot 2023-07-21 at 3 42 07 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/f5075f0e-e369-46d8-90fb-0722f8bfe57a">
+<img width="1113" alt="Screen Shot 2023-07-21 at 3 44 30 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/77731773-85ef-476f-86ca-558fe58eeedd">
+<img width="1113" alt="Screen Shot 2023-07-21 at 3 47 14 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/d65e486a-a82d-4984-ab2b-b3b9fde4ba03">
+<img width="1113" alt="Screen Shot 2023-07-21 at 3 48 31 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/7c9685da-5c1b-4e72-938b-f7a3e2dca6f0">
+<img width="1113" alt="Screen Shot 2023-07-21 at 3 52 05 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/762192ec-7e4a-4c75-8b7d-779448b50349">
+<img width="1113" alt="Screen Shot 2023-07-21 at 4 07 07 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/55c3a2e3-ae10-47da-b000-32e0b93ad140">
+
+---
+Direct Peering exists outside of Google Cloud. Unless you need to access Google Workspace applications, the recommended methods of access to Google Cloud are **Dedicated Interconnect** or **Partner Interconnect**
+
+**Google Workspace applications：** Gmail, Google Calendar, Google Drive, etc.
+
+---
+
+
