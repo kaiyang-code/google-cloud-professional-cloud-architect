@@ -363,3 +363,15 @@ Choose B in the above question since you want to minimize the cost
 
 ---
 
+<img width="1113" alt="Screen Shot 2023-07-22 at 1 15 37 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/e37fffe6-e6ad-4e64-9534-b6fc9f409a6a">
+<img width="1113" alt="Screen Shot 2023-07-22 at 1 18 19 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/6e591c53-33e1-47ab-a42d-259994912bd9">
+<img width="1113" alt="Screen Shot 2023-07-22 at 1 20 21 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/b1045ed9-f9d7-41fa-9af6-82cb02720bd8">
+<img width="1113" alt="Screen Shot 2023-07-22 at 1 23 28 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/2ae0d0bb-e7a4-446c-bef9-25c95b931619">
+
+---
+- Cloud Run is cheaper than Compute Engine. 
+- Bigtable is optimized for heavy write loads. 
+- For any predefined list of (simple) queries, we use Bigtable, and for any (complex) queries that we do not know ahead of time, we use BigQuery.
+
+---
+
