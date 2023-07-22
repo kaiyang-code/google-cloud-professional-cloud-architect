@@ -1,5 +1,10 @@
 # Notes
 
+## Database
+
+<kbd><img width="1113" alt="Screen Shot 2023-07-22 at 6 51 30 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/5b715844-1f4d-41a5-b97c-3cd797ac6940"></kbd>
+
+
 ## Resource Manager
 
 - **super admin:** the user that you used to sign up for Google Cloud
@@ -101,8 +106,6 @@
   - **Hierarchical Quota:** a feature of the **Hierarchical namespace** that limits the aggregate resource consumption across all namespaces in a subtree
 - **[Anthos Tooling I](https://app.exampro.co/student/material/gcp-architect/4388)**
 - **[Anthos Tooling II](https://app.exampro.co/student/material/gcp-architect/4389)**
-
-
 
 
 ## Big Data and Machine Learning
