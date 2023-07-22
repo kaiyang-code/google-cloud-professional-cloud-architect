@@ -436,3 +436,61 @@ The answer is **D** in the above question
 
 <img width="1113" alt="Screen Shot 2023-07-22 at 4 25 34 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/49919f5a-75f6-4f4b-b728-fd691b931e0d">
 <img width="1113" alt="Screen Shot 2023-07-22 at 4 28 34 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/271ac3a4-5ee2-4756-b137-84c9b643b7a5">
+<img width="1113" alt="Screen Shot 2023-07-22 at 5 54 35 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/505f8c33-ef24-40a4-9464-a3da960f4f46">
+
+---
+**Serverless VPC Access** makes it possible for you to connect directly to your Virtual Private Cloud (VPC) network from serverless environments such as Cloud Run, App Engine, or Cloud Functions.
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-22 at 5 57 10 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/f3d4f8ca-2551-4a07-ba94-08f5e5bd99c4">
+<img width="1113" alt="Screen Shot 2023-07-22 at 6 00 39 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/a5d0d334-003b-4180-a55b-85780872685a">
+<img width="1113" alt="Screen Shot 2023-07-22 at 6 03 26 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/9583d774-70bf-4a3e-813f-44fb0acb6914">
+
+---
+The answer to the above question is **A**
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-22 at 6 08 24 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/7a8e8b24-1cc2-465d-af7e-42adf0c7eea3">
+
+---
+**Rightsizing provides two types of recommendations:**
+
+- **Performance-based recommendations:** Recommends Compute Engine instances based on the CPU and RAM currently allocated to the on-premises VM. This recommendation is the default.
+- **Cost-based recommendations:** Recommends Compute Engine instances based on:
+  - The current CPU and RAM configuration of the on-premises VM.
+  - The average usage of this VM during a given period. To use this option, you must activate rightsizing monitoring with vSphere for this group of VMs and allow time for Migrate for Compute Engine to analyze usage.
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-22 at 6 15 12 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/47166b4b-f521-4b9e-b94e-2ef9baa48fc9">
+
+--- 
+**Private Google Access** is a feature provided by GCP that allows virtual machine (VM) instances in a Virtual Private Cloud (VPC) network to access Google APIs and services without requiring public IP addresses.
+
+**VPC Service Controls** is a GCP security feature that provides an additional layer of protection for your cloud resources by creating a security perimeter around specified Google services and data. It allows you to define a boundary, known as the "VPC Service Controls perimeter," to control and restrict communication between your GCP resources and other external services, networks, or projects.
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-22 at 6 18 49 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/1335f22f-e197-4c31-a293-79c2d6652b66">
+<img width="1113" alt="Screen Shot 2023-07-22 at 6 21 23 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/220f4a4f-da77-492f-9730-bd8d489dc89e">
+<img width="1113" alt="Screen Shot 2023-07-22 at 6 22 54 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/d9e09dc4-3388-41f8-8f5c-75c8ebe392ce">
+<img width="1113" alt="Screen Shot 2023-07-22 at 6 26 00 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/2cd62f1c-dc61-43ed-852b-3a880a6f8e80">
+<img width="1113" alt="Screen Shot 2023-07-22 at 6 27 32 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/6f942481-083b-43f8-9778-a16d1aad5d70">
+<img width="1113" alt="Screen Shot 2023-07-22 at 6 30 36 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/4292214f-438c-44db-878e-995ba5a65577">
+
+---
+You can't use the snapshot created by another project.
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-22 at 6 33 58 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/6af5d2ab-94cf-4cba-b21e-3495b5c811dc">
+<img width="1113" alt="Screen Shot 2023-07-22 at 6 36 14 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/2c35fe0b-cd07-47c2-bc47-7b22dc88c8d6">
+<img width="1113" alt="Screen Shot 2023-07-22 at 6 37 23 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/d86c4032-12df-491c-b669-9ee3cbdea12a">
+<img width="1113" alt="Screen Shot 2023-07-22 at 6 39 13 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/c655ab9b-86d2-443e-aa9e-f77c344edec0">
+<img width="1113" alt="Screen Shot 2023-07-22 at 6 45 39 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/806d6ff0-ef19-46d5-b65b-c845dafb1778">
+<img width="1113" alt="Screen Shot 2023-07-22 at 6 52 20 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/289426cf-36c4-40f1-9b0f-5960d328f757">
+<img width="1113" alt="Screen Shot 2023-07-22 at 6 55 53 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/7960bfa0-a3b8-4fd2-bf3c-df6d21aed712">
+<img width="1113" alt="Screen Shot 2023-07-22 at 6 59 14 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/4a4d9e56-5d64-433f-ae38-320dea858855">
+
