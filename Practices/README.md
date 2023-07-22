@@ -184,4 +184,14 @@ Direct Peering exists outside of Google Cloud. Unless you need to access Google 
 
 ---
 
+<img width="1113" alt="Screen Shot 2023-07-21 at 8 40 47 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/7eebdfdc-6dff-4464-8b9f-daa62c4fb98b">
 
+---
+Disabling and then discontinuing allows you to see the effects of not using the APIs
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-21 at 8 43 14 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/4e4b0ece-28e4-41cc-91f6-613f1878238d">
+<img width="1113" alt="Screen Shot 2023-07-21 at 8 44 41 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/84890068-9ef9-48cb-88a9-db02c19261b3">
+<img width="1113" alt="Screen Shot 2023-07-21 at 8 45 35 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/9100bfad-bfdc-4dcc-957a-7405e1318ced">
+<img width="1113" alt="Screen Shot 2023-07-21 at 10 14 30 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/61af06fc-6bbd-4c98-8720-71c7b6c0d8c5">
