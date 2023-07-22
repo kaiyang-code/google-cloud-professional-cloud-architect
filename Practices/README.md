@@ -195,3 +195,83 @@ Disabling and then discontinuing allows you to see the effects of not using the 
 <img width="1113" alt="Screen Shot 2023-07-21 at 8 44 41 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/84890068-9ef9-48cb-88a9-db02c19261b3">
 <img width="1113" alt="Screen Shot 2023-07-21 at 8 45 35 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/9100bfad-bfdc-4dcc-957a-7405e1318ced">
 <img width="1113" alt="Screen Shot 2023-07-21 at 10 14 30 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/61af06fc-6bbd-4c98-8720-71c7b6c0d8c5">
+<img width="1113" alt="Screen Shot 2023-07-21 at 10 19 52 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/ac002d87-ee18-4085-85d3-efab63f102f3">
+
+---
+Local SSH can only be used to store temperary data.
+
+- **Boot Volume**
+  - the primary storage used to host the operating system of the virtual machine. It contains the necessary files and configurations required to start the VM's operating system during the boot process
+
+- **Data Volumes**
+  - Data volumes, also known as data disks, are additional storage devices attached to the VM to store application data, databases, files, and other user-generated content
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-21 at 10 25 06 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/b7659920-986d-4906-a26e-f8c98eadd0ec">
+<img width="1113" alt="Screen Shot 2023-07-21 at 10 27 59 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/d5779de1-c0b6-464a-8c39-987262e94179">
+
+---
+To improve the cache hit ratio with Cloud CDN, you should customize the cache keys to omit the protocol **(e.g. HTTP or HTTPS)** from the key. This will allow Cloud CDN to cache the same content under both HTTP and HTTPS, which can help to improve the hit ratio by allowing Cloud CDN to serve content from cache more frequently.
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-21 at 10 29 49 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/50625e20-0247-4ea5-a53d-595d03cfdcf2">
+<img width="1113" alt="Screen Shot 2023-07-21 at 10 32 23 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/008d9546-2dd7-49b3-bca8-33d6d93720da">
+<img width="1113" alt="Screen Shot 2023-07-21 at 10 34 15 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/6ba3886f-ff84-46b8-905c-36a46d879bb6">
+<img width="1113" alt="Screen Shot 2023-07-21 at 10 38 00 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/385fb401-3906-4941-8748-bf4789e5f44a">
+<img width="1113" alt="Screen Shot 2023-07-21 at 10 41 58 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/3c6b66b1-60b2-45ec-bf69-5f210bae1433">
+
+---
+**The correct answer for the above question is B.**
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-21 at 10 44 53 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/8d45b261-03a0-4218-b73b-44cef05b8759">
+<img width="1113" alt="Screen Shot 2023-07-21 at 10 49 05 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/0acaee59-7f06-4006-84f5-9f646f059edc">
+
+---
+- **gRPC**
+  - is an open-source remote procedure call (RPC) framework developed by Google. It is designed to enable efficient and high-performance communication between distributed systems, making it an excellent choice for building scalable microservices and client-server applications
+  
+- **Exponential Backoff Algorithm**
+  - Truncated exponential backoff is a standard error handling strategy for network applications in which a client periodically retries a failed request with increasing delays between requests
+  - An exponential backoff algorithm retries requests exponentially, increasing the waiting time between retries up to a maximum backoff time
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-21 at 10 52 06 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/e3037a58-c267-44fd-9ce2-9a315aa3cdb5">
+<img width="1113" alt="Screen Shot 2023-07-21 at 10 58 35 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/deca10fc-e1b9-4b87-ad67-c995ab1725e5">
+
+---
+**Region** is the smallest unit for Google storage bucket (**you cannot select Zone**), the next two options are **dual-regions** and **multi-regions**
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-21 at 11 02 34 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/973580b5-7d69-484e-b700-0fc51f5f141e">
+
+---
+- **Object Lifecycle Management**
+  - there are a set of rules, conditions and the action when the conditions are met. Rules are any set of conditions for any action
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-21 at 11 05 58 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/eec09433-866f-40c4-b4e0-47c4bfd259d5">
+
+---
+- **Dedicated Memcache Service Level**
+  - In a dedicated Memcache service level, a separate and isolated Memcached instance is provisioned for each individual application or client. This means that the resources of the Memcached instance (such as CPU, memory, and network) are exclusively allocated to a single application or client
+
+- **Shared Memcache Service Level**
+  - In a shared Memcache service level, multiple applications or clients share the same Memcached instance
+
+**A dedicated memset is always better than shared until cost-effectiveness specify in the exam as objective**
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-21 at 11 36 39 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/e273a212-6a2f-49f9-a15f-b0bdeb52c62c">
+
+---
+containerization is not mentioned, so we choose B over D.
+
+---
