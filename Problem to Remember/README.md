@@ -28,3 +28,13 @@
 <img width="1113" alt="Screen Shot 2023-07-22 at 12 47 28 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/207c7759-4b42-4fa3-8839-c650db8a28a7">
 <img width="1113" alt="Screen Shot 2023-07-22 at 3 06 45 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/9fff2373-70b8-4102-b821-e4a12186c5ce">
 <img width="1113" alt="Screen Shot 2023-07-22 at 3 09 08 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/13c3ad24-b5e3-4ba3-bc13-b07890c67620">
+<img width="1113" alt="Screen Shot 2023-07-22 at 3 34 51 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/be3a3fd2-3d3e-4c7e-83c8-3d5b3181cb2e">
+<img width="1113" alt="Screen Shot 2023-07-22 at 3 42 39 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/17ef624f-5543-4343-91b1-34dd5c946dad">
+<img width="1113" alt="Screen Shot 2023-07-22 at 3 54 24 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/e959d5c5-e2a6-4e71-8bed-e3d0e693e274">
+<img width="1113" alt="Screen Shot 2023-07-22 at 4 10 43 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/e61efe3f-07a5-4be0-b460-4710bd9ff633">
+<img width="1113" alt="Screen Shot 2023-07-22 at 4 12 34 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/4345d2c1-d61e-4828-8fd9-55fa4b742134">
+
+---
+The answer is **D** in the above question
+
+---
