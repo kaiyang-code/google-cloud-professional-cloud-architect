@@ -38,3 +38,11 @@
 The answer is **D** in the above question
 
 ---
+
+<img width="1113" alt="Screen Shot 2023-07-22 at 5 57 10 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/f3d4f8ca-2551-4a07-ba94-08f5e5bd99c4">
+<img width="1113" alt="Screen Shot 2023-07-22 at 6 00 39 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/a5d0d334-003b-4180-a55b-85780872685a">
+<img width="1113" alt="Screen Shot 2023-07-22 at 6 18 49 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/1335f22f-e197-4c31-a293-79c2d6652b66">
+<img width="1113" alt="Screen Shot 2023-07-22 at 6 22 54 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/d9e09dc4-3388-41f8-8f5c-75c8ebe392ce">
+<img width="1113" alt="Screen Shot 2023-07-22 at 6 26 00 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/2cd62f1c-dc61-43ed-852b-3a880a6f8e80">
+<img width="1113" alt="Screen Shot 2023-07-22 at 6 33 58 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/6af5d2ab-94cf-4cba-b21e-3495b5c811dc">
+<img width="1113" alt="Screen Shot 2023-07-22 at 6 36 14 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/2c35fe0b-cd07-47c2-bc47-7b22dc88c8d6">
