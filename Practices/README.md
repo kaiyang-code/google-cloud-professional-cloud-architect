@@ -375,3 +375,6 @@ Choose B in the above question since you want to minimize the cost
 
 ---
 
+<img width="1113" alt="Screen Shot 2023-07-22 at 3 06 45 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/9fff2373-70b8-4102-b821-e4a12186c5ce">
+<img width="1113" alt="Screen Shot 2023-07-22 at 3 09 08 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/13c3ad24-b5e3-4ba3-bc13-b07890c67620">
+<img width="1113" alt="Screen Shot 2023-07-22 at 3 29 19 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/0668e155-9c7d-4a22-a5bd-3871e939a811">
