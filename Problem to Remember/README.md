@@ -12,3 +12,11 @@
 <img width="1113" alt="Screen Shot 2023-07-21 at 2 18 33 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/6107cd26-f8c3-4cd3-a494-a342b45db11f">
 <img width="1113" alt="Screen Shot 2023-07-21 at 3 27 31 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/126da330-a8ea-4c87-bb75-b10c1be71e1f">
 <img width="1113" alt="Screen Shot 2023-07-21 at 8 44 41 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/84890068-9ef9-48cb-88a9-db02c19261b3">
+<img width="1113" alt="Screen Shot 2023-07-21 at 10 29 49 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/50625e20-0247-4ea5-a53d-595d03cfdcf2">
+<img width="1113" alt="Screen Shot 2023-07-21 at 10 41 58 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/3c6b66b1-60b2-45ec-bf69-5f210bae1433">
+
+---
+**The correct answer for the above question is B.**
+
+---
+
