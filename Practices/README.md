@@ -378,3 +378,61 @@ Choose B in the above question since you want to minimize the cost
 <img width="1113" alt="Screen Shot 2023-07-22 at 3 06 45 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/9fff2373-70b8-4102-b821-e4a12186c5ce">
 <img width="1113" alt="Screen Shot 2023-07-22 at 3 09 08 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/13c3ad24-b5e3-4ba3-bc13-b07890c67620">
 <img width="1113" alt="Screen Shot 2023-07-22 at 3 29 19 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/0668e155-9c7d-4a22-a5bd-3871e939a811">
+<img width="1113" alt="Screen Shot 2023-07-22 at 3 33 50 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/b5381bb1-6da8-4aae-8d6b-eabbd54add8b">
+<img width="1113" alt="Screen Shot 2023-07-22 at 3 34 51 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/be3a3fd2-3d3e-4c7e-83c8-3d5b3181cb2e">
+<img width="1113" alt="Screen Shot 2023-07-22 at 3 36 14 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/6763e509-c52f-4b62-9d4f-2cd9e6bd6cc8">
+<img width="1113" alt="Screen Shot 2023-07-22 at 3 38 01 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/2af1cf96-f448-4b9f-a324-ecff46add6b7">
+
+---
+**Istio:** an open platform that provides a uniform way to connect, manage, and secure microservices.
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-22 at 3 39 45 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/6e01a0b3-07be-4a36-8bb6-b13c978eabb1">
+<img width="1113" alt="Screen Shot 2023-07-22 at 3 42 39 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/17ef624f-5543-4343-91b1-34dd5c946dad">
+<img width="1113" alt="Screen Shot 2023-07-22 at 3 44 33 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/9fbfbf86-e43f-403f-9373-41369725c939">
+<img width="1113" alt="Screen Shot 2023-07-22 at 3 48 11 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/9a822aed-7ff5-4ea9-987d-9a25b3aca946">
+<img width="1113" alt="Screen Shot 2023-07-22 at 3 50 47 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/24486d32-319e-4b2e-ab79-0fdc1d89472b">
+<img width="1113" alt="Screen Shot 2023-07-22 at 3 54 24 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/e959d5c5-e2a6-4e71-8bed-e3d0e693e274">
+<img width="1113" alt="Screen Shot 2023-07-22 at 3 56 03 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/4ea62601-7571-479b-b5a5-03f70ef81122">
+
+
+---
+**App Engine Standard Enviornment:** designed for sudden and extreme spikes of traffic
+
+**App Engine Flexible Enviornment:** designed for consistent traffic
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-22 at 4 03 14 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/8449b888-b155-49be-be7a-405a0705042f">
+
+---
+This problem mentioned: "The structure of the data retrieved from the source systems can change at any time." As a result, BigQuery is not a very good option.
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-22 at 4 07 59 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/f60b4efb-1d94-467c-9353-46e90ab03ab8">
+<img width="1113" alt="Screen Shot 2023-07-22 at 4 10 43 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/e61efe3f-07a5-4be0-b460-4710bd9ff633">
+
+---
+attestations refer to statements, or pieces of evidence, provided by a trusted entity to verify the integrity, authenticity, or compliance status of a system or component
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-22 at 4 12 34 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/4345d2c1-d61e-4828-8fd9-55fa4b742134">
+
+---
+The answer is **D** in the above question
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-22 at 4 15 17 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/52784c07-c86b-4abb-b117-915d9267a167">
+<img width="1113" alt="Screen Shot 2023-07-22 at 4 18 40 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/fe40a50d-3a85-406c-be65-a9ee5d2e2575">
+
+---
+**Cloud Key Management Service (KMS):** a central repository for storing Key Encryption Keys(KEKs) and to centrally manage symmetric and asymmetric cryptographic keys
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-22 at 4 25 34 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/49919f5a-75f6-4f4b-b728-fd691b931e0d">
+<img width="1113" alt="Screen Shot 2023-07-22 at 4 28 34 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/271ac3a4-5ee2-4756-b137-84c9b643b7a5">
