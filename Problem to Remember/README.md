@@ -46,3 +46,5 @@ The answer is **D** in the above question
 <img width="1113" alt="Screen Shot 2023-07-22 at 6 26 00 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/2cd62f1c-dc61-43ed-852b-3a880a6f8e80">
 <img width="1113" alt="Screen Shot 2023-07-22 at 6 33 58 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/6af5d2ab-94cf-4cba-b21e-3495b5c811dc">
 <img width="1113" alt="Screen Shot 2023-07-22 at 6 36 14 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/2c35fe0b-cd07-47c2-bc47-7b22dc88c8d6">
+<img width="1113" alt="Screen Shot 2023-07-22 at 6 55 53 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/7960bfa0-a3b8-4fd2-bf3c-df6d21aed712">
+<img width="1113" alt="Screen Shot 2023-07-22 at 6 59 14 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/4a4d9e56-5d64-433f-ae38-320dea858855">
