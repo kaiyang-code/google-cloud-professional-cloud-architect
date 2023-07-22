@@ -1,6 +1,6 @@
 ## All Practice Problems
 
-### CONSIDER "MOST VOTED" AS THE CORRECT ANSWER
+### CONSIDER "MOST VOTED" AS THE CORRECT ANSWER ⭐ ✔️ 🔴
 
 <img width="1113" alt="Screen Shot 2023-07-18 at 4 45 25 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/1b2412ad-77de-48d0-bbe9-309624aa2615">
 
@@ -275,3 +275,91 @@ To improve the cache hit ratio with Cloud CDN, you should customize the cache ke
 containerization is not mentioned, so we choose B over D.
 
 ---
+
+<img width="1113" alt="Screen Shot 2023-07-22 at 11 17 31 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/c81695e1-587c-42da-aeab-f471e47eb62c">
+<img width="1113" alt="Screen Shot 2023-07-22 at 11 19 13 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/78cf7755-89f9-4325-948b-c4444ca8e3b3">
+<img width="1113" alt="Screen Shot 2023-07-22 at 11 24 30 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/ff81af5b-931d-45b3-b137-d2a220cbcd41">
+
+---
+A **Compute Engine migration RunBook** is a document or set of instructions that outlines the step-by-step process for migrating virtual machines (VMs) or workloads from one environment to another using Google Cloud Platform's (GCP) Compute Engine service
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-22 at 11 29 34 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/43502cb1-fd97-4dbd-9930-aad2a04aa118">
+
+---
+**Google Filestore** is fully managed, thus does not give users full controls
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-22 at 11 30 52 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/3c7fdc33-bc09-47ad-86a0-6aabb629d2c3">
+<img width="1113" alt="Screen Shot 2023-07-22 at 11 34 48 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/64ab1a97-25df-43fd-84e5-903b090e9c50">
+<img width="1113" alt="Screen Shot 2023-07-22 at 11 35 56 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/fcaa5a6e-c531-4e47-b5be-b02a3523e077">
+<img width="1113" alt="Screen Shot 2023-07-22 at 11 38 12 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/de980b77-c50f-4ae5-8dd0-6967c9bbf16f">
+
+---
+**Binary logging** is a feature provided by many database management systems (DBMS) to log changes made to the data in a binary format
+
+If the problem has **Point-in-Time Recovery** keyword, use **Binary Logging**
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-22 at 11 42 44 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/d1c8da08-576d-4c2f-a20e-8679e2100b6b">
+<img width="1113" alt="Screen Shot 2023-07-22 at 11 44 20 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/131c124a-0780-4f64-8e08-425ab0126eac">
+<img width="1113" alt="Screen Shot 2023-07-22 at 11 46 30 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/055ecd29-76dc-4f1b-b986-ff25f30a5aa2">
+<img width="1113" alt="Screen Shot 2023-07-22 at 11 49 08 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/5c14961b-645a-470e-9a60-b29f56c6adbe">
+<img width="1113" alt="Screen Shot 2023-07-22 at 11 51 33 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/d169efe3-2c67-471b-9c4a-35f4177a0f97">
+<img width="1113" alt="Screen Shot 2023-07-22 at 11 52 54 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/28dc3e43-21a3-4c29-89ff-6db0c5eeeaa6">
+<img width="1113" alt="Screen Shot 2023-07-22 at 12 07 53 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/2547ce91-5010-4705-af93-9c93144a04fb">
+
+---
+**VPC Service Controls** is a security feature provided by GCP that allows you to define a security perimeter around specific resources, projects, or services within your GCP environment. This perimeter, known as the **VPC Service Controls perimeter**, helps protect sensitive data and resources from unauthorized access, even in cases where there might be a data breach or misconfiguration.
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-22 at 12 13 19 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/652c3e46-f127-4ff5-bbad-8edf25609683">
+
+---
+- **Automatic, or proactive, updates**
+  - If you want to apply updates automatically, set the type to proactive
+- **Selective, or opportunistic, updates**
+  - Alternatively, if an automated update is potentially too disruptive, you can choose to perform an opportunistic update. The MIG applies an opportunistic update only when you **manually initiate the update** on selected instances or **when new instances are created** 
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-22 at 12 16 39 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/270ff611-8f7a-44d7-a2fc-4030244c9eb7">
+<img width="1113" alt="Screen Shot 2023-07-22 at 12 18 09 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/442af278-70c7-42c8-98f1-9ca3028bf20c">
+<img width="1113" alt="Screen Shot 2023-07-22 at 12 19 14 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/8887252f-f5e4-448e-8ecd-a578709baa24">
+
+---
+Choose B in the above question since you want to minimize the cost
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-22 at 12 22 27 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/b4aca7ec-cf63-4a76-b8ea-66d017d103e7">
+
+---
+**NIC** stands for **Network Interface Card**, which is a hardware component or a network adapter that enables a computer or device to connect to a local area network (LAN) or a wide area network (WAN). It provides the physical interface for a device to communicate over a network by transmitting and receiving data packets
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-22 at 12 24 12 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/b266b0ca-82be-4cbc-9309-d056a105d8da">
+<img width="1113" alt="Screen Shot 2023-07-22 at 12 30 32 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/30c2ccc2-bc28-4831-b189-96f29938d2d2">
+<img width="1113" alt="Screen Shot 2023-07-22 at 12 46 01 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/f7c9413e-f1e5-42ab-a06b-f6d8866dded7">
+
+---
+**Cloud Filestore** uses **POSIX filesystem**
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-22 at 12 47 28 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/207c7759-4b42-4fa3-8839-c650db8a28a7">
+
+---
+- **Anthos Service Mesh:** 
+  - Controls the flow of traffic between services as well as Ingress and egress traffic
+  - Service metrics and logs for HTTP traffic are automatically ingested
+    - Delivers monitoring, latency, traffic, and error telemetry data
+    - Automatically uploaded to Anthos service mesh console
+
+---
+
