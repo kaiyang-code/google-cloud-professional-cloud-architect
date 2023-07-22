@@ -26,3 +26,5 @@
 <img width="1113" alt="Screen Shot 2023-07-22 at 12 16 39 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/270ff611-8f7a-44d7-a2fc-4030244c9eb7">
 <img width="1113" alt="Screen Shot 2023-07-22 at 12 22 27 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/b4aca7ec-cf63-4a76-b8ea-66d017d103e7">
 <img width="1113" alt="Screen Shot 2023-07-22 at 12 47 28 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/207c7759-4b42-4fa3-8839-c650db8a28a7">
+<img width="1113" alt="Screen Shot 2023-07-22 at 3 06 45 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/9fff2373-70b8-4102-b821-e4a12186c5ce">
+<img width="1113" alt="Screen Shot 2023-07-22 at 3 09 08 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/13c3ad24-b5e3-4ba3-bc13-b07890c67620">
