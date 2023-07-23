@@ -1,7 +1,8 @@
-## All Practice Problems
+# All Practice Problems
 
 ### CONSIDER "MOST VOTED" AS THE CORRECT ANSWER ⭐ ✔️ 🔴
 
+## Topic 1 - Question Set 1
 <img width="1113" alt="Screen Shot 2023-07-18 at 4 45 25 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/1b2412ad-77de-48d0-bbe9-309624aa2615">
 
 <img width="1113" alt="Screen Shot 2023-07-18 at 5 07 26 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/c5836775-5ce5-4176-b29b-78e914c2d3ad">
@@ -493,4 +494,85 @@ You can't use the snapshot created by another project.
 <img width="1113" alt="Screen Shot 2023-07-22 at 6 52 20 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/289426cf-36c4-40f1-9b0f-5960d328f757">
 <img width="1113" alt="Screen Shot 2023-07-22 at 6 55 53 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/7960bfa0-a3b8-4fd2-bf3c-df6d21aed712">
 <img width="1113" alt="Screen Shot 2023-07-22 at 6 59 14 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/4a4d9e56-5d64-433f-ae38-320dea858855">
+<img width="1113" alt="Screen Shot 2023-07-23 at 1 35 45 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/d78dcac9-f3cc-4e52-ad3f-c6e7d63a57de">
 
+---
+The answer to the above question is **C**
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-23 at 1 37 57 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/f0f9c4f5-b9d2-4aac-b261-ec96988426e2">
+
+---
+**Cloud CDN (Content Delivery Network):** is used for caching objects like web content to serve content closer to users accelerating your websites and applications
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-23 at 1 39 36 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/cc798016-8b61-4b12-8565-95a9e972c3fe">
+<img width="1113" alt="Screen Shot 2023-07-23 at 1 46 55 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/0327929a-a975-4468-8fc1-7ebd11f3a3ca">
+
+---
+- **Data Loss Prevention (DLP)**
+  - Discover, manage, and redact sensitive data from anywhere – Social security numbers, phone numbers, drivers license
+  - Redact, mask, tokenize, and transform sensitive data from text and images
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-23 at 1 48 44 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/ed1ab4b3-bfe5-48fa-bac3-51090cc94ab6">
+
+---
+The answer to the above question is **A**
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-23 at 1 53 40 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/817a8d43-32d3-4460-a1bc-26f12d883a4f">
+<img width="1113" alt="Screen Shot 2023-07-23 at 1 54 31 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/a32361e4-f972-4895-92bb-dfc383c68be6">
+<img width="1113" alt="Screen Shot 2023-07-23 at 1 56 46 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/abb07e74-c762-4293-aefd-92331a32af85">
+<img width="1113" alt="Screen Shot 2023-07-23 at 1 58 58 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/85fa8273-40c2-444d-b1c7-79fc3886480d">
+<img width="1113" alt="Screen Shot 2023-07-23 at 2 08 38 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/d58e3e3d-db90-403a-b034-cb4edda4b2b1">
+
+---
+- **Storage Transfer Service**
+  - a service from Google Cloud that enables you to move data from one location (source) to a destination (sink).
+  - It enables you to move or backup data to a cloud storage bucket either from other cloud storage providers or from your on-premises storage Transfer Service for on-premises data
+
+- **Transfer Appliance**
+  - a high-capacity storage device that enables you to transfer and securely ship your data to a Google upload facility, where data is uploaded to your Cloud Storage 
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-23 at 2 13 58 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/ed74add5-3172-4c2b-b4d7-68d5bb0b0a9a">
+<img width="1113" alt="Screen Shot 2023-07-23 at 2 15 03 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/618421e4-77f7-4076-80de-73772adaeabe">
+<img width="1113" alt="Screen Shot 2023-07-23 at 2 17 53 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/a4f8ab24-4a56-4715-823e-19f39ec6f70c">
+
+---
+VPC peering cannot be established between VPCs if there is IP range overlap.
+
+Peer across the same or **different projects and organizations**
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-23 at 2 21 08 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/9ca8d8ce-d15f-4fd5-9940-fc7920d9b88f">
+<img width="1113" alt="Screen Shot 2023-07-23 at 2 25 01 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/9e8234bd-a78a-4463-9da5-29ef15cf1986">
+
+---
+This will help to prevent outages by ensuring that only healthy Pods are serving traffic. 
+
+The liveness probe will check that the Pod is running and responding to requests. 
+
+The readiness probe will check that the Pod is ready to serve traffic, such as by checking that the application is installed and configured.
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-23 at 2 27 17 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/bf1f7d63-c7a1-410a-b74f-5544e822c750">
+<img width="1113" alt="Screen Shot 2023-07-23 at 2 29 11 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/3c8d9dbe-ac5d-42b7-a716-3b00cfb698c9">
+<img width="1113" alt="Screen Shot 2023-07-23 at 2 33 57 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/bca568b4-70ae-471e-a7ff-757cd8a57518">
+<img width="1113" alt="Screen Shot 2023-07-23 at 2 34 56 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/6e9a11b9-346d-4bc7-b1dd-4369407a8f48">
+
+---
+To support the retrieval of objects that are deleted or replaced, Cloud Storage offers the **Object Versioning** feature
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-23 at 2 37 30 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/a133d8b3-682e-4380-9906-af3d9741d5f1">
+<img width="1113" alt="Screen Shot 2023-07-23 at 2 42 07 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/7ae963a4-1946-4127-aed4-614375226632">
