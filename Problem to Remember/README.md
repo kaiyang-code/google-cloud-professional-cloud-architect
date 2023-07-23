@@ -1,5 +1,6 @@
-## Problems to be Remembered
+# Problems to be Remembered
 
+## Topic 1 - Question Set 1
 <img width="1113" alt="Screen Shot 2023-07-18 at 9 35 49 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/79af449c-6e23-4bef-9e57-465c87d851f2">
 <img width="1113" alt="Screen Shot 2023-07-18 at 9 54 21 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/dd40878e-5a54-4c03-9ed4-73e4fbe2d589">
 <img width="1113" alt="Screen Shot 2023-07-18 at 9 57 39 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/54c0a2e2-b41c-4f70-9a0d-e89ae1cead6c">
@@ -48,3 +49,6 @@ The answer is **D** in the above question
 <img width="1113" alt="Screen Shot 2023-07-22 at 6 36 14 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/2c35fe0b-cd07-47c2-bc47-7b22dc88c8d6">
 <img width="1113" alt="Screen Shot 2023-07-22 at 6 55 53 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/7960bfa0-a3b8-4fd2-bf3c-df6d21aed712">
 <img width="1113" alt="Screen Shot 2023-07-22 at 6 59 14 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/4a4d9e56-5d64-433f-ae38-320dea858855">
+<img width="1113" alt="Screen Shot 2023-07-23 at 1 58 58 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/85fa8273-40c2-444d-b1c7-79fc3886480d">
+<img width="1113" alt="Screen Shot 2023-07-23 at 2 37 30 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/a133d8b3-682e-4380-9906-af3d9741d5f1">
+<img width="1113" alt="Screen Shot 2023-07-23 at 2 42 07 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/7ae963a4-1946-4127-aed4-614375226632">
