@@ -3,14 +3,72 @@
 ### CONSIDER "MOST VOTED" AS THE CORRECT ANSWER ⭐ ✔️ 🔴
 
 ## Topic 1 - Question Set 1
+<img width="1113" alt="Screen Shot 2023-07-24 at 5 25 22 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/7c3f2695-de17-4666-86f1-4fa7a0b06a26">
+<img width="1113" alt="Screen Shot 2023-07-24 at 5 26 17 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/4dc95907-a50a-4a66-90ae-dbb31b667ff6">
+<img width="1113" alt="Screen Shot 2023-07-24 at 5 29 35 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/1715764c-0130-4e59-a39f-76d93e7925d0">
+
+---
+The answer to the above question is **CDE**
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-24 at 5 31 07 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/6fbacb02-5eae-4a8a-a0a6-f03c4bf05b76">
+
+---
+AppEngine spins up new containers automatically according to the load. During peak traffic, HTTP requests originated by the same user could be served by different containers. Given that the variable `sessions` is recreated for each container, it might store different data.
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-24 at 5 32 34 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/8f4eb4bc-ccd4-449e-9012-1254bc967dd3">
+
+---
+The answer to the above question is **A**
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-24 at 5 36 41 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/fed909b4-9ef3-46a3-a2a5-f5cc14989270">
+
+---
+**Blue/Green vs Canary Testing:**
+
+The fact that the canary handles real user traffic is key: if it breaks, real users get affected, so **canarying should be the first step in your deployment process, as opposed to the last step in testing in production (Blue/Green)**
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-24 at 5 41 00 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/94fb6643-c0b5-4194-9367-f2335d23e151">
+<img width="1113" alt="Screen Shot 2023-07-24 at 5 42 10 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/0a8854b6-fb26-4906-8341-a9b0532e1320">
+
+---
+Relational databases were not designed to cope with the scale and agility challenges that face modern applications, nor were they built to take advantage of the commodity storage and processing power available today.
+
+NoSQL fits well for developers are working with applications that create massive volumes of new, rapidly changing data types ג€" structured, semi-structured, unstructured and polymorphic data.
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-24 at 5 44 32 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/6b6ce133-d9e2-4c3f-a81c-8b0cbc720a50">
+
+---
+The best practice when configuration a health check is to check health and serve traffic on the same port. However, it is possible to perform health checks on one port, but serve traffic on another. 
+
+If you do use two different ports, ensure that firewall rules and services running on instances are configured appropriately.
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-24 at 5 47 05 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/646dd92c-24f4-4fd3-90b3-b05becda6d1b">
+<img width="1113" alt="Screen Shot 2023-07-24 at 5 49 17 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/af3fbf02-c59b-45b1-912b-295c6c14082a">
+
+---
+The answer to the above question is **C**
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-24 at 5 50 12 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/90eafcad-78be-437f-8934-810508f9911f">
+<img width="1113" alt="Screen Shot 2023-07-24 at 5 52 09 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/b7ebc624-3887-42cb-bc37-ef4598c3b8f9">
+<img width="1113" alt="Screen Shot 2023-07-24 at 5 52 49 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/ae6ba84a-a92b-4ac4-82d1-5856808c3186">
 <img width="1113" alt="Screen Shot 2023-07-18 at 4 45 25 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/1b2412ad-77de-48d0-bbe9-309624aa2615">
-
 <img width="1113" alt="Screen Shot 2023-07-18 at 5 07 26 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/c5836775-5ce5-4176-b29b-78e914c2d3ad">
-
 <img width="1113" alt="Screen Shot 2023-07-18 at 5 08 07 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/48be43ad-a18f-44aa-b74c-431d2fea5e08">
-
 <img width="1113" alt="Screen Shot 2023-07-18 at 5 09 05 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/9c67338d-eb0e-4a39-a1b1-9dacae84f12e">
-
 <img width="1113" alt="Screen Shot 2023-07-18 at 8 04 17 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/8a6bef05-43f1-42f1-a5db-38a09f970e01">
 
 ---
