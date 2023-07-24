@@ -60,3 +60,22 @@ The answer is **D** in the above question
 
 ## Case Study Two: EHR Healthcare
 
+<img width="1113" alt="Screen Shot 2023-07-24 at 11 45 15 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/6e7b468a-50f1-4025-b0cb-26518252b33d">
+
+---
+The answer to the above question is **AD**
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-24 at 11 49 54 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/8694c1a0-9993-4fe1-ac93-06af9aa59e78">
+
+## Case Study Three: Mountkirk Games
+
+<img width="1113" alt="Screen Shot 2023-07-24 at 12 26 24 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/bb1cc26f-8c66-4a0e-931f-d71cb7e6356e">
+<img width="1113" alt="Screen Shot 2023-07-24 at 12 34 48 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/ea786619-8792-4462-947a-29789cea0096">
+<img width="1113" alt="Screen Shot 2023-07-24 at 12 42 47 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/232a9890-f242-415e-8d6d-c616293095eb">
+
+
+## Case Study Four: TerramEarth
+
+<img width="1113" alt="Screen Shot 2023-07-24 at 1 03 51 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/77a81860-6e1f-4371-9292-43de01f4f4ef">
