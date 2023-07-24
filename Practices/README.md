@@ -576,3 +576,39 @@ To support the retrieval of objects that are deleted or replaced, Cloud Storage 
 
 <img width="1113" alt="Screen Shot 2023-07-23 at 2 37 30 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/a133d8b3-682e-4380-9906-af3d9741d5f1">
 <img width="1113" alt="Screen Shot 2023-07-23 at 2 42 07 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/7ae963a4-1946-4127-aed4-614375226632">
+
+## Case Study One: Helicopter Racing League
+
+<kbd><img width="868" alt="Screen Shot 2023-07-23 at 9 56 11 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/a78c7151-94e7-49e5-859f-23804d085e6a"></kbd>
+
+<img width="1113" alt="Screen Shot 2023-07-23 at 9 36 20 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/a6aabf52-1993-4195-8cf3-fff165762f3f">
+
+---
+Deterministic output means that a given set of inputs (card number, expiration, and userID) will always generate the same token. This is useful if you want to rely on the token value to deduplicate your token stores. You can simply match a newly generated token to your existing catalog of tokens to determine whether the card has been previously stored.
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-23 at 9 42 18 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/6a68fac5-b47d-4631-8936-628b12ff443a">
+
+---
+The answer to the above question is **D**
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-23 at 9 45 59 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/6ca3d0de-993f-4458-b253-d53746e39118">
+<img width="1113" alt="Screen Shot 2023-07-23 at 9 49 13 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/45b5adfd-92e0-499d-9a5d-5a3a64f537a5">
+
+---
+**SDK** stands for Software Development Kit. It is a set of tools, libraries, documentation, and sample code provided by software developers or vendors to facilitate the creation of applications and software for a specific platform, framework, or programming language. SDKs are designed to simplify the development process by offering pre-built components and APIs that developers can use to integrate with the target platform or services.
+
+**AI Explanations** helps you understand your model's outputs for classification and regression tasks. Whenever you request a prediction on AI Platform, AI Explanations tells you how much each feature in the data contributed to the predicted result. You can then use this information to verify that the model is behaving as expected, recognize bias in your models, and get ideas for ways to improve your model and your training data.
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-23 at 9 53 46 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/1bc6b813-b4ba-45ea-9eea-da9d0f45dcd9">
+<img width="1113" alt="Screen Shot 2023-07-23 at 9 59 09 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/1993dad5-752e-47f3-98f3-1263972bb3fb">
+
+## Case Study Two: EHR Healthcare
+
+<kbd><img width="882" alt="Screen Shot 2023-07-23 at 10 02 09 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/b3b93fcf-e695-4ecf-9d29-823e28ad840d"></kbd>
+
