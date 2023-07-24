@@ -612,3 +612,80 @@ The answer to the above question is **D**
 
 <kbd><img width="882" alt="Screen Shot 2023-07-23 at 10 02 09 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/b3b93fcf-e695-4ecf-9d29-823e28ad840d"></kbd>
 
+<img width="1113" alt="Screen Shot 2023-07-24 at 11 44 01 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/8d5c1c59-e12e-48e8-837e-4be5a7341a83">
+<img width="1113" alt="Screen Shot 2023-07-24 at 11 45 15 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/6e7b468a-50f1-4025-b0cb-26518252b33d">
+
+---
+The answer to the above question is **AD**
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-24 at 11 46 55 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/847454dd-1f6e-465c-96b3-368c554ae6d4">
+<img width="1113" alt="Screen Shot 2023-07-24 at 11 49 54 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/8694c1a0-9993-4fe1-ac93-06af9aa59e78">
+<img width="1113" alt="Screen Shot 2023-07-24 at 11 55 56 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/1dba05b1-31d0-48de-96a3-a6e652cb043e">
+
+---
+**Message batching** in Google Cloud Pub/Sub is a feature that allows multiple messages to be combined into a single larger message before being sent and processed by subscribers. 
+
+The cost of batching is latency for individual messages, which are queued in memory until their corresponding batch is filled and ready to be sent over the network. To minimize latency, batching should be turned off.
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-24 at 11 58 28 AM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/df1d05e9-d267-44bc-bca8-2145a0192a62">
+<img width="1113" alt="Screen Shot 2023-07-24 at 12 06 26 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/31c5a76a-a18a-4c86-b6ea-6bd704fd94e5">
+
+---
+In GKE, **Master Authorized Networks** is a security feature that allows you to restrict access to the Kubernetes control plane (the master) by specifying a list of IP ranges or CIDR blocks from which API requests to the master are allowed.
+
+Private Cluster is more secure than Public Cluster
+
+---
+
+
+## Case Study Three: Mountkirk Games
+
+<kbd><img width="997" alt="Screen Shot 2023-07-24 at 12 15 50 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/9f323c9e-2536-4147-b1f1-f2c6145de201"></kbd>
+
+<img width="1113" alt="Screen Shot 2023-07-24 at 12 26 24 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/bb1cc26f-8c66-4a0e-931f-d71cb7e6356e">
+<img width="1113" alt="Screen Shot 2023-07-24 at 12 34 48 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/ea786619-8792-4462-947a-29789cea0096">
+<img width="1113" alt="Screen Shot 2023-07-24 at 12 42 47 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/232a9890-f242-415e-8d6d-c616293095eb">
+<img width="1113" alt="Screen Shot 2023-07-24 at 12 46 49 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/fd313b30-c548-4c13-b0b0-c3823db81894">
+
+---
+GCP DOES NOT support multi-region compute engine or multi-region GKE cluster
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-24 at 12 48 28 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/6f9d6f13-ff74-4678-a304-a81d5c52bedd">
+<img width="1113" alt="Screen Shot 2023-07-24 at 12 58 44 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/e1afc019-a7bb-45a5-bdb4-f995e6861a04">
+
+---
+**Workload Identity** is a feature in GCP that allows you to securely authenticate and authorize applications running on GKE to access other GCP services without the need for service account key files
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-24 at 12 59 58 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/fc980a7b-4581-4b99-a627-cfa7eb9cbd7c">
+
+## Case Study Four: TerramEarth
+
+<kbd><img width="1113" alt="Screen Shot 2023-07-24 at 1 03 19 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/1e70b9f2-67ec-483c-962f-10b09ee750f9"></kbd>
+
+<img width="1113" alt="Screen Shot 2023-07-24 at 1 03 51 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/77a81860-6e1f-4371-9292-43de01f4f4ef">
+<img width="1113" alt="Screen Shot 2023-07-24 at 1 05 52 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/1045a8f8-3035-4264-8347-885d188cf9bf">
+
+
+---
+**Network Endpoint Groups (NEGs)** are an important concept in Google Cloud Platform (GCP) used to define a group of backend endpoints for load balancing services. NEGs are associated with a specific load balancer and are used to represent the destination endpoints that the load balancer distributes incoming traffic to.
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-24 at 1 07 46 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/7d3e3bc1-0468-4ce7-b6dd-4dc8512b95c4">
+
+---
+GCP provides **Security Bulletins** to keep users informed about security vulnerabilities and issues that may affect GCP services. These bulletins are released periodically and contain important information about security patches, updates, and mitigations to address potential vulnerabilities.
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-24 at 2 33 57 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/4e33bb8b-c77c-498f-98ac-5c0e3e7b8992">
+<img width="1113" alt="Screen Shot 2023-07-24 at 2 35 11 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/e10bf05a-b708-4aeb-94b4-a58a7790117e">
+<img width="1113" alt="Screen Shot 2023-07-24 at 2 36 59 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/f8c4389e-418a-4fa1-b6df-b498c5851033">
