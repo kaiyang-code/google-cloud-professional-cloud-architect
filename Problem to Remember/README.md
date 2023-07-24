@@ -52,3 +52,11 @@ The answer is **D** in the above question
 <img width="1113" alt="Screen Shot 2023-07-23 at 1 58 58 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/85fa8273-40c2-444d-b1c7-79fc3886480d">
 <img width="1113" alt="Screen Shot 2023-07-23 at 2 37 30 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/a133d8b3-682e-4380-9906-af3d9741d5f1">
 <img width="1113" alt="Screen Shot 2023-07-23 at 2 42 07 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/7ae963a4-1946-4127-aed4-614375226632">
+
+
+## Case Study One: Helicopter Racing League
+
+<img width="1113" alt="Screen Shot 2023-07-23 at 9 59 09 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/1993dad5-752e-47f3-98f3-1263972bb3fb">
+
+## Case Study Two: EHR Healthcare
+
