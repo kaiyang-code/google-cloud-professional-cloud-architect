@@ -92,6 +92,12 @@ if the problem involves "real-time", go for BigTable
 ---
 
 <img width="1113" alt="Screen Shot 2023-07-18 at 8 37 18 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/41c69c95-509b-4fdf-a8e2-41259dd26aad">
+
+---
+Docker image build uses caching. Docker Instructions sequence matter because application’s dependencies change less frequently than the Python code. This approach will help to reuse the cached layer of dependency and only add new layer for code change for Python Source code.
+
+---
+
 <img width="1113" alt="Screen Shot 2023-07-18 at 8 41 47 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/5d95ebc2-acfe-4139-966a-aae3e59471a3">
 <img width="1113" alt="Screen Shot 2023-07-18 at 8 43 51 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/56380b7c-0b81-4f6b-a18f-a457a533c09c">
 <img width="1113" alt="Screen Shot 2023-07-18 at 8 47 52 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/0ec1dca6-fd0b-4765-af1a-64fca627fa29">
