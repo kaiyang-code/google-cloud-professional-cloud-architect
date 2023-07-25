@@ -145,10 +145,22 @@ Secret Manager
 <img width="1113" alt="Screen Shot 2023-07-18 at 9 32 11 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/5ec4c10e-e1be-4a07-8c8e-61441edfd4d7">
 <img width="1113" alt="Screen Shot 2023-07-18 at 9 33 21 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/f24a8986-d605-42bd-a12e-a07c9a6bbb3a">
 <img width="1113" alt="Screen Shot 2023-07-18 at 9 35 49 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/79af449c-6e23-4bef-9e57-465c87d851f2">
+
+---
+A **serial console** is a system administration feature that provides direct access to the console of a computer or server over a serial connection. It allows administrators to interact with the system's boot process, monitor system messages, and troubleshoot issues, even when the operating system or network interface is not yet available or functioning correctly.
+
+---
+
 <img width="1113" alt="Screen Shot 2023-07-18 at 9 45 46 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/2a5358c8-c8e7-49b2-912e-cd9b9e08e981">
 <img width="1113" alt="Screen Shot 2023-07-18 at 9 50 52 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/2f72c089-a8e4-44e7-a526-98bbea11e565">
 <img width="1113" alt="Screen Shot 2023-07-18 at 9 51 38 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/b74d7529-b143-4ff8-b231-25004243d52a">
 <img width="1113" alt="Screen Shot 2023-07-18 at 9 54 14 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/a349e6c6-b7d8-489c-8c86-08f5b95afba7">
+
+---
+SHA1 Digest error in the first line in the error code. With Java errors, always focus on the first line in the error code, rest of the lines are garbage (**mostly**).
+
+---
+
 <img width="1113" alt="Screen Shot 2023-07-18 at 9 57 39 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/54c0a2e2-b41c-4f70-9a0d-e89ae1cead6c">
 <img width="1113" alt="Screen Shot 2023-07-18 at 9 58 45 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/f847b96e-3c50-4ebe-988a-7352d1f3c13d">
 <img width="1113" alt="Screen Shot 2023-07-18 at 10 02 24 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/c45518e4-6c79-482c-bda2-0b57b25b4709">
@@ -181,6 +193,8 @@ The `~/bin` folder, also known as the bin directory in the user's home directory
 ---
 - **Primary IP:** the primary interface through which the device communicates on the network
 - **Secondary IP:** are additional addresses that allow the device to host multiple services or applications
+
+Primary and secondary ranges can't conflict with on-premises IP ranges if you have connected your VPC network to another network with Cloud VPN, Dedicated Interconnect, or Partner Interconnect
 
 ---
 
