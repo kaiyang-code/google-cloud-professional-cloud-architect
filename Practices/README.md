@@ -105,9 +105,11 @@ Docker image build uses caching. Docker Instructions sequence matter because app
 ---
 **Failover:** refers to the ability of the system to automatically and seamlessly transfer operations and workload from a failed component or node to a standby or backup component
 
+Routinely scheduled failovers would allow the team to test the failover when it is not requried. This would make sure it is working when it is required.
+
 --- 
 
-<img width="1113" alt="Screen Shot 2023-07-18 at 9 08 44 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/2d6e0804-da78-4376-90bc-9c104adb9ade">
+<img width="1113" alt="Screen Shot 2023-07-24 at 6 19 48 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/2eed059e-7070-49bd-a2f6-6b306f8b0f82">
 <img width="1113" alt="Screen Shot 2023-07-18 at 9 10 58 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/4a3e65f7-49bf-407f-8640-9a69da8e5edb">
 
 ---
@@ -119,6 +121,15 @@ Docker image build uses caching. Docker Instructions sequence matter because app
 
 <img width="1113" alt="Screen Shot 2023-07-18 at 9 14 23 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/918ed08f-b357-42d4-bc05-d0537ab80657">
 <img width="1113" alt="Screen Shot 2023-07-18 at 9 16 27 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/71fecec2-6d1b-4f24-a722-8da947ba649d">
+
+---
+Secret Manager
+  - Secure objects that store sensitive data, such as passwords, OAuth tokens, and API keys
+  - Control over how sensitive data is used and reduce the risk of exposing the data to unauthorized users
+  - IAM and Audit Log integration – Permissions, Who accessed that secret and when
+
+---
+
 <img width="1113" alt="Screen Shot 2023-07-18 at 9 19 03 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/ca80b955-d88b-48e3-8204-503bee68e70e">
 <img width="1113" alt="Screen Shot 2023-07-18 at 9 26 53 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/e1337b24-a0aa-4bb5-83b6-5c80123b6281">
 
