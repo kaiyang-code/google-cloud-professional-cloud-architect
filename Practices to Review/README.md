@@ -26,7 +26,6 @@
 The answer to the above question is **B**
 
 ---
-
 <img width="1113" alt="Screen Shot 2023-07-24 at 10 10 45 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/4b317549-6264-41d2-a2d5-a861c69cd981">
 <img width="1113" alt="Screen Shot 2023-07-24 at 10 12 16 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/1ac35108-c0e7-4b6e-b643-57eaf8690bf2">
 <img width="1113" alt="Screen Shot 2023-07-24 at 10 14 13 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/f7c5f66f-fb35-4b5a-a668-8094c144e49a">
@@ -39,6 +38,80 @@ The answer to the above question is **B**
 <img width="1113" alt="Screen Shot 2023-07-24 at 10 31 39 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/ccb78ee5-1c69-49fb-acf9-d6382e9fa540">
 <img width="1113" alt="Screen Shot 2023-07-24 at 10 37 37 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/e32a81d1-3ea5-4528-8efc-af63b97a081e">
 <img width="1113" alt="Screen Shot 2023-07-24 at 10 40 18 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/50037487-d655-4082-b91f-24b616c6a53b">
+<img width="1113" alt="Screen Shot 2023-07-25 at 3 15 02 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/7733068c-a5c4-4129-8533-5fcc828329ce">
+<img width="1113" alt="Screen Shot 2023-07-25 at 3 21 16 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/03f2288d-dca8-4b9c-8aa7-8622c60ad8fd">
+<img width="1113" alt="Screen Shot 2023-07-25 at 3 26 49 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/cedbc980-53fe-4232-a722-70cf0efb0f6a">
+<img width="1113" alt="Screen Shot 2023-07-25 at 3 28 42 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/34300632-6765-481a-b97f-1bac5a310f77">
+<img width="1113" alt="Screen Shot 2023-07-25 at 3 35 55 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/aa8896e2-ccb6-422d-9d6f-f8ee724c2de1">
+<img width="1113" alt="Screen Shot 2023-07-25 at 3 38 12 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/561a7663-ce72-445f-b090-b217b9e49369">
 
+--------
+All Google API interfaces must provide a major version number, which is encoded at the end of the protobuf package, and included as the first part of the URI path for REST APIs. If an API introduces a breaking change, such as removing or renaming a field, it must increment its API version number to ensure that existing user code does not suddenly break.
+
+--------
+<img width="1113" alt="Screen Shot 2023-07-25 at 3 44 03 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/40b7fd9a-7cbb-440a-a2bf-72234d99430a">
+<img width="1113" alt="Screen Shot 2023-07-25 at 3 45 15 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/2ee25b25-b5ee-4969-b173-67ab62506c42">
+<img width="1113" alt="Screen Shot 2023-07-25 at 4 02 27 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/71baf0e0-5eb2-4e6a-b985-3b21bf996928">
+<img width="1113" alt="Screen Shot 2023-07-25 at 4 03 47 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/2f7f0cb7-a8bc-4c49-bb20-9d9e455a4fed">
+<img width="1113" alt="Screen Shot 2023-07-25 at 4 36 05 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/b0c48f5f-4665-4fe4-b4ab-f4c897d926f1">
+<img width="1113" alt="Screen Shot 2023-07-25 at 4 37 31 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/7f691cd6-5112-41ac-ae65-f3bccd3c7376">
+<img width="1113" alt="Screen Shot 2023-07-25 at 4 39 15 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/399c2b23-b474-4aa1-beeb-bce2c280d8a0">
+
+--------
+**Anthos Service Mesh:**
+- Controls the flow of traffic between services as well as Ingress and egress traffic
+- Service metrics and logs for HTTP traffic are automatically ingested
+  - **Delivers monitoring, latency, traffic, and error telemetry data**
+  - Automatically uploaded to Anthos service mesh console
+
+--------
+<img width="1113" alt="Screen Shot 2023-07-25 at 4 43 38 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/1fac7bb3-f09e-4d0b-83cb-0e38a3fe1c0f">
+<img width="1113" alt="Screen Shot 2023-07-25 at 4 46 37 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/6ec37b86-8c2f-424a-ae88-abbee3c5815d">
+<img width="1113" alt="Screen Shot 2023-07-25 at 4 53 45 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/031bdc4f-8149-4f9d-9a5d-d4f491f8571e">
+<img width="1113" alt="Screen Shot 2023-07-25 at 4 55 07 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/994fd74d-52a8-42a1-9d7a-c9aa48e71bec">
+<img width="1113" alt="Screen Shot 2023-07-25 at 4 56 23 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/64bfe18b-2c35-4326-bca7-8dabef23965b">
+<img width="1113" alt="Screen Shot 2023-07-25 at 5 05 46 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/fe55014d-8f1e-4df3-8db9-204585dbd55c">
+<img width="1113" alt="Screen Shot 2023-07-25 at 5 06 50 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/3cd366bf-d1c4-4606-90c1-7a6bebafd3dd">
+<img width="1113" alt="Screen Shot 2023-07-25 at 5 10 58 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/236dd70f-9ecf-4610-b2ed-d26762937885">
+<img width="1113" alt="Screen Shot 2023-07-25 at 5 17 02 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/2fa776ec-7643-461b-a310-f481e1cafcf9">
+<img width="1113" alt="Screen Shot 2023-07-25 at 7 40 50 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/55b75f4d-0e0f-43dd-95ee-ebd17c2e10b6">
+<img width="1113" alt="Screen Shot 2023-07-25 at 7 52 56 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/f5897bc5-d1b2-45f5-9ac5-ecbced40ff29">
+<img width="1113" alt="Screen Shot 2023-07-25 at 7 53 17 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/84701a43-47bb-49fc-b909-1e3d0d46a569">
+<img width="1113" alt="Screen Shot 2023-07-25 at 7 53 27 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/042a3404-5b43-4447-af55-268ce873ec6c">
+
+--------
+for EHR, the answers to network related questions are always **dedicated interconnection**.
+
+--------
+
+
+<img width="1113" alt="Screen Shot 2023-07-25 at 7 58 29 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/a396a054-a248-4097-9c50-aa657e2b66af">
+<img width="1113" alt="Screen Shot 2023-07-25 at 7 59 18 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/75eb8c95-76a8-4f56-a607-0f84e5454716">
+<img width="1113" alt="Screen Shot 2023-07-25 at 8 01 51 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/d72c1e26-1d46-4a6b-abb1-f9d7196de4ec">
+
+--------
+GCP **DOES NOT** support multi-region compute engine or multi-region GKE cluster
+
+--------
+
+<img width="1113" alt="Screen Shot 2023-07-25 at 8 02 49 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/abaf86df-1a37-4cbf-a22f-f9e145fd7fe1">
+<img width="1113" alt="Screen Shot 2023-07-25 at 8 04 15 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/a3760e95-b5cc-403c-83f2-c8d995c4d8d5">
+
+--------
+**Workload Identity** is a feature in GCP that allows you to securely authenticate and authorize applications running on GKE to access other GCP services without the need for service account key files
+
+--------
+
+<img width="1113" alt="Screen Shot 2023-07-25 at 8 05 54 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/437f6140-f6df-4c14-95fa-f4470f88f4df">
+
+---
+**Firebase Test Lab** is a mobile app testing service provided by Google Firebase. It allows developers to test their Android and iOS applications on a wide range of real devices in the cloud, helping them identify and fix issues before releasing their apps to users.
+
+---
+
+<img width="1113" alt="Screen Shot 2023-07-25 at 8 08 07 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/ba846dc8-5282-43c0-b42d-ca1ecd11f7c2">
+<img width="1113" alt="Screen Shot 2023-07-25 at 8 09 38 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/79aa7f13-0873-439c-9fa5-17ea9d06d3fb">
+<img width="1113" alt="Screen Shot 2023-07-25 at 8 10 23 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/579e1b36-e287-4ae8-8a8c-60f0afb7f7b9">
+<img width="1113" alt="Screen Shot 2023-07-25 at 8 12 22 PM" src="https://github.com/kaiyang-code/google-cloud-professional-cloud-architect/assets/57576013/29282427-b24d-466f-8a32-3931f7388243">
 
 
